@@ -2,4 +2,14 @@
 
 Welcome to my personal repository of leetcode solutions! This repo is part of my ongoing effort to improve my problem solving and data structures/algorithms skills to aid in my pursuit of a software engineering role.
 
-Currently there is nothing here, but check back soon!
+LeetCode 75: 1/75
+
+# Table of Contents
+
+| Category    | Example Problem   |
+|-------------|-------------------|
+| Strings     | Merge Alternately |
+
+# How To Use
+
+Each folder is a different category of topics. Files are named after the problem they solve, with more info inside the file.
