@@ -4,7 +4,7 @@ Welcome to my personal repository of leetcode solutions! This repo is part of my
 
 | Category    | Completion |
 |-------------|------------|
-| LeetCode 75 | 2/75       |
+| LeetCode 75 | 3/75       |
 
 # Table of Contents
 
@@ -12,6 +12,7 @@ Welcome to my personal repository of leetcode solutions! This repo is part of my
 |-------------|---------------------|--------|
 | Strings     | Merge Alternately   | 1      |
 | Linked List | Reverse Linked list | 1      |
+| Binary Tree | Maximum Depth       | 1      |
 
 # How To Use
 
