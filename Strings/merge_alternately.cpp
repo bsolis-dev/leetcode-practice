@@ -6,8 +6,7 @@ Description: Given two strings word1 and word2, merge them by adding letters in 
 Approach: Iterate max(m, n) times, appending the ith character of word1 and word2 (if any left)
 
 Time Complexity: O(m + n)
-Space Complexit: O(1)
-
+Space Complexity: O(1)
 */
 
 string mergeAlternately(string word1, string word2) {
