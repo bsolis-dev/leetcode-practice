@@ -4,13 +4,13 @@ Welcome to my personal repository of leetcode solutions! This repo is part of my
 
 | Category    | Completion |
 |-------------|------------|
-| LeetCode 75 | 4/75       |
+| LeetCode 75 | 5/75       |
 
 # Table of Contents
 
 | Category     | Example Problem     | Amount |
 |--------------|---------------------|--------|
-| Strings      | Merge Alternately   | 1      |
+| Strings      | Merge Alternately   | 2      |
 | Linked List  | Reverse Linked list | 1      |
 | Binary Tree  | Maximum Depth       | 1      |
 | Two Pointers | Move Zeroes         | 1      |
