@@ -4,16 +4,16 @@ Welcome to my personal repository of leetcode solutions! This repo is part of my
 
 | Category    | Completion |
 |-------------|------------|
-| LeetCode 75 | 5/75       |
+| LeetCode 75 | 6/75       |
 
 # Table of Contents
 
-| Category     | Example Problem     | Amount |
-|--------------|---------------------|--------|
-| Strings      | Merge Alternately   | 2      |
-| Linked List  | Reverse Linked list | 1      |
-| Binary Tree  | Maximum Depth       | 1      |
-| Two Pointers | Move Zeroes         | 1      |
+| Category       | Example Problem     | Amount |
+|----------------|---------------------|--------|
+| Arrays/Strings | Merge Alternately   | 3      |
+| Linked List    | Reverse Linked list | 1      |
+| Binary Tree    | Maximum Depth       | 1      |
+| Two Pointers   | Move Zeroes         | 1      |
 
 # How To Use
 
